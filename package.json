@@ -2,9 +2,9 @@
   "name": "assistant-template",
   "version": "3.0.0",
   "description": "Exemple de la structure d'un plugin",
-  "author": "aymkdn",
-  "main": "template.js",
-  "repository": "https://github.com/Aymkdn/assistant-template/",
+  "author": "Jérémie Zarca",
+  "main": "index.js",
+  "repository": "https://github.com/jzarca01/assistant-template/",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0"
